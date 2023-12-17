@@ -21,7 +21,7 @@ Blending 7+ years in AI with a sprinkle of innovation and a dash of creativity, 
 
 ### Tech Toolbox 🛠️
 - **Languages:** Python, SQL, JavaScript, Ruby
-- **Frameworks & Libraries:** PyTorch, Langchain, Elasticsearch, Huggingface, SpaCy
+- **Frameworks & Libraries:** PyTorch, Langchain, Vector Databases, Huggingface, SpaCy
 - **Tools:** AWS, GCP, Docker, Git
 - **Specialties:** LLMs, Generative AI, NLP
 
