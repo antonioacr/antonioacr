@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sajal!
 
-## 🚀 AI/ML Engineer focusing on NLP applications 📖
+## 🚀 AI/ML Engineer focusing on applied AI
 
 📍 **Singapore**  
 📧 **Email:** [contact@sajalsharma.com](mailto:contact@sajalsharma.com)  
