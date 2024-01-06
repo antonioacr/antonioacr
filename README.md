@@ -9,8 +9,7 @@
 
 
 ### About Me 🌐
-Blending 7+ years in AI with a sprinkle of innovation and a dash of creativity, I sculpt data & language into experiences. From the bustling streets of Asia, I've led teams and projects, infusing life into AI and fostering a world where machines and humans could dance in harmony.
-
+Blending 7+ years in ML, NLP and Software Engineering, I sculpt data & language into experiences. 
 
 
 ### Professional Highlights 🌟
