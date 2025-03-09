@@ -1,37 +1,25 @@
-# 👋 Hello, I'm Sajal!
-
-## 🚀 AI/ML Engineer focusing on applied AI
-
-📍 **Singapore**  
-📧 **Email:** [contact@sajalsharma.com](mailto:contact@sajalsharma.com)  
-🔗 **LinkedIn:** [sajals](https://linkedin.com/in/sajals)  
-👨‍💻 **GitHub:** [sajal2692](https://github.com/sajal2692)
+# 👋 Hello, I'm Antonio!
 
 
 ### About Me 🌐
-Blending over 7 years of experience in ML, NLP, and Software Engineering, I transform data and language into impactful solutions and experiences.
+I am currently a Professor at the Federal University of Juiz de Fora (UFJF), campus Governador Valadares, where I teach and conduct research in the field of Operations and Supply Chain Management. I also serve as a consultant in these areas, with a focus on logistics, supply chain optimization, and operations management.
 
 
 ### Professional Highlights 🌟
-- **AI Engineer** - Menyala, Singapore (2024 - Present)
-- **Lead AI Engineer** - OneByZero, Singapore (2023 - 2024)
-- **Senior AI Engineer** - Splore, Singapore (2023)
-- **ML Engineer - NLP** - Unscrambl, India (2017 - 2022)
-
+- **Adjunct Professor** - Federal University of Juiz de Fora | 2015 - Present 🇧🇷
+- **Assistant Professor** - Federal University of Jequitinhonha e Mucuri | 2013 - 2015 🇧🇷
+- **Temporary Professor** - Federal University of Viçosa | 2012 - 2013 🇧🇷
+- 
 
 ### Tech Toolbox 🛠️
-- **Languages:** Python, SQL, JavaScript, Ruby
-- **Frameworks & Libraries:** PyTorch, Langchain, Vector Databases, Huggingface, SpaCy
-- **Tools:** AWS, GCP, Docker, Git
-- **Specialties:** LLMs, Generative AI, NLP, Search
+- **Languages:** R, Python, SQL
+- **Specialties:** Logistic, Supply Chain, Operations, and Service
+- 
 
 ### Education 🎓
-- **Masters in IT**, The University of Melbourne
-- **Bachelors in Computer Applications**, Bhartiya Vidyapeeth University
+- **Specialization in Data Science e Analytics**, São Paulo University | São Paulo, SP 🇧🇷
+- **Ph.D. in Business Administration**, Federal University of Minas Gerais | Belo Horizonte, MG 🇧🇷, Sandwich doctorate at Butler University | Indianapolis, IN 🇺🇸
+- **Masters in Business Administration**, Federal University of Minas Gerais | Belo Horizonte, MG 🇧🇷
+- **Bachelors in Business Administration**, Federal University of Viçosa Viçosa, MG 🇧🇷
 
-### Certifications 📜
-- **Coursera:** Deep Learning, Machine Learning, Mathematics for ML Specializations
-- **Udacity:** NLP, ML, React Nanodegrees
-
-🔗 Let's ideate, innovate, and build cool expericnes with AI. Reach out for collaborations or simply to chat!
 
